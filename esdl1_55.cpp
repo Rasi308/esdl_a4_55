@@ -1,5 +1,6 @@
 #include<iostream>
 void main()
 {
-cout<<"hello world!";
+cout<<"hello world!\n";
+cout<<"you are awesome!"
 }
